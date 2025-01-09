@@ -1,3 +1,6 @@
+
+![walterwhite](https://github.com/user-attachments/assets/a512695a-88c3-423d-bbd7-9a86c044b4c3)
+
 # Walter White - Breaking Bad Quote Generator  
 
 **Walter White** is a simple iOS application that fetches and displays quotes from the hit TV series *Breaking Bad*. The app is powered by the free API [Breaking Bad Quotes](https://api.breakingbadquotes.xyz/v1/quotes).  
