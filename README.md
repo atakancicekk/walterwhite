@@ -6,7 +6,7 @@
 **Walter White** is a simple iOS application that fetches and displays quotes from the hit TV series *Breaking Bad*. The app is powered by the free API [Breaking Bad Quotes](https://api.breakingbadquotes.xyz/v1/quotes).  
 
 
-<img src="https://github.com/user-attachments/assets/27e8faf9-50bf-431c-aadc-4ce2e604ef2b)" width="100" height="20" />
+<img src="https://github.com/user-attachments/assets/27e8faf9-50bf-431c-aadc-4ce2e604ef2b" width="100" height="20" />
 
 
 ## Features  
